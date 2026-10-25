@@ -2,7 +2,7 @@
 
 *A story in many parts.*
 
-Welcome! This is the homepage. Everything you see here comes from the file called **home.txt**. Open it, change the words, save it, and the website changes too.
+Welcomee! This is the homepage. Everything you see here comes from the file called **home.txt**. Open it, change the words, save it, and the website changes too.
 
 You can write whatever you like here: a description of your project, a warning, a schedule, links to other places such as [your favourite site](https://example.com).
 

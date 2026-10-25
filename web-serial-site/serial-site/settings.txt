@@ -1,0 +1,55 @@
+# ==========================================================
+#  SITE SETTINGS
+#  Change the text after each colon, then save ("Commit") the file.
+#  Lines starting with # are notes and are ignored.
+#  Delete a line to go back to its default value.
+# ==========================================================
+
+# ---- Names ----
+# Shown in the top bar and in the browser tab.
+site-title: My Web Serial
+
+# Text on the buttons at the bottom of every post.
+previous-label: ← Previous
+next-label: Next →
+home-label: Contents
+
+# Small text at the very bottom of every page (leave empty for none).
+footer: Thanks for reading!
+
+# ---- Colors ----
+# Use color names (white, black, gray...) or hex codes (#161616).
+background: #161616
+text-color: #f2f2f2
+link-color: #8ab4f8
+# Used for the less important text and button borders:
+muted-color: #9a9a9a
+# Thin divider lines:
+line-color: #333333
+
+# ---- Text ----
+# Handy fonts:  Georgia, serif   |   Arial, sans-serif   |   "Courier New", monospace
+font: Georgia, "Times New Roman", serif
+font-size: 18px
+line-height: 1.7
+# How wide the text column is (smaller = narrower):
+page-width: 700px
+# left or center or justify
+text-align: left
+# Alignment of the homepage text: left or center
+home-align: left
+
+# ---- Posts ----
+# oldest-first or newest-first  (order of the list on the homepage)
+post-order: oldest-first
+# yes = "1 The Beginning" is shown as "The Beginning"
+hide-numbers: no
+# yes or no
+show-top-bar: yes
+
+# ---- Advanced (you can ignore everything below) ----
+# Only needed if you use your own domain name (not username.github.io):
+# github-repo: your-username/your-repository
+# github-branch: main
+# Any extra styling, written as normal CSS on ONE line:
+# custom-css: h1 { letter-spacing: 0.05em; }

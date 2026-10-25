@@ -1,0 +1,10 @@
+This is the very first post. The title above is simply the name of this file, "1 The Beginning.txt".
+
+Posts are plain text files. A blank line starts a new paragraph.
+A single line break (like this one) stays a line break.
+
+"Dialogue works as normal," she said. *Words between single stars* become italic, and **double stars** become bold.
+
+* * *
+
+A line containing only three stars (or three dashes) makes a scene break like the one above.

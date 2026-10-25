@@ -1,0 +1,12 @@
+Files whose names start with an underscore (_) are ignored by the website,
+so you can keep notes or unfinished drafts in this folder without publishing them.
+(They are only hidden from the list - not private. Anyone who knows the exact address could still open them.)
+
+HOW POSTS WORK
+- Put each post in this folder as its own file: .txt, .md, .docx or .pdf
+- The file name becomes the post title.
+- Posts appear in number order, so name them:
+      1 The Beginning.txt
+      2 The Second Post.txt
+      3 Another One.docx
+- Delete a file to remove the post. Replace a file to edit it.

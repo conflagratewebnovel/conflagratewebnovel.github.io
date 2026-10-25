@@ -1,5 +1,0 @@
-To add a post, upload a new file into the "posts" folder. That's it.
-
-Files are shown in number order, so "2 Adding More Posts" comes before "10 Something Else". The previous / next buttons below follow the same order.
-
-To remove a post, delete its file. To edit a post, replace its file with a new version using the same name.

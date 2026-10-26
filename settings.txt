@@ -18,10 +18,10 @@ line-color: #333333
 # Text
 # Handy fonts:  Georgia, serif   |   Arial, sans-serif   |   "Courier New", monospace
 font: Georgia, "Times New Roman", serif
-font-size: 12px
-line-height: 1.7
+font-size: 11px
+line-height: 1.5
 # How wide the text column is (smaller = narrower):
-page-width: 700px
+page-width: 900px
 # left or center or justify
 text-align: center
 # Alignment of the homepage text: left or center
